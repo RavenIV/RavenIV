@@ -1,9 +1,9 @@
 ### Glad to see you here! 👋
 
-I'm a beginner Python backend developer from St.Petersburg.
+I'm a beginner Python backend developer from St Petersburg.
 
-In the summer of 2022, I completed my master's degree in linguistics wanting to pursue a career in interpreting or international relations.
-Half a year later I got interested in programming and began developing simple apps on Python which amazed me by its flexibility and closeness to natural languages.
+In the summer of 2022, I completed my master's degree in linguistics at St Petersburg University wanting to pursue a career in translating and interpreting.
+Half a year later, I got interested in programming and began developing simple apps on Python which amazed me by its flexibility and closeness to natural languages.
 Having realized that nothing but coding excited me so much, I decided to turn my hobby into my profession and completed bootcamp course on Python development.
 
 
