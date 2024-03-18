@@ -12,7 +12,7 @@ Having realized that nothing but coding excited me so much, I decided to turn my
     - SQL
 
 
-# Languages and Tools
+### Languages and Tools
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
@@ -22,7 +22,7 @@ Having realized that nothing but coding excited me so much, I decided to turn my
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-# How to reach me
+### How to reach me
 
   - Email: i.a.vorontsova@mail.ru
   - Telegram: @ivory_iv
