@@ -19,9 +19,9 @@ Having realized that nothing but coding excited me so much, I decided to turn my
 
 ### I’m currently learning:
 
-    - SQL
-    - Flask
-    - Data structures and Algorythms on [LeetCode](https://leetcode.com/)
+- SQL
+- Flask
+- Data structures and Algorythms on [LeetCode](https://leetcode.com/)
     
 
 ### How to reach me
