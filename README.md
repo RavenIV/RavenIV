@@ -20,7 +20,8 @@ Having realized that nothing but coding excited me so much, I decided to turn my
 ### I’m currently learning:
 
 - SQL
-- Flask
+- FastAPI
+- SQLAlchemy
 - Data structures and Algorythms on [LeetCode](https://leetcode.com/)
     
 
