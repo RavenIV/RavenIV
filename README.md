@@ -6,11 +6,6 @@ In the summer of 2022, I completed my master's degree in linguistics wanting to 
 Half a year later I got interested in programming and began developing simple apps on Python which amazed me by its flexibility and closeness to natural languages.
 Having realized that nothing but coding excited me so much, I decided to turn my hobby into my profession and completed bootcamp course on Python development.
 
-- 🌱 I’m currently learning:
-    - Tools and technologies for web development
-    - Data structures and Algorythms on [LeetCode](https://leetcode.com/)
-    - SQL
-
 
 ### Languages and Tools
 
@@ -21,6 +16,13 @@ Having realized that nothing but coding excited me so much, I decided to turn my
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+### I’m currently learning:
+
+    - SQL
+    - Flask
+    - Data structures and Algorythms on [LeetCode](https://leetcode.com/)
+    
 
 ### How to reach me
 
