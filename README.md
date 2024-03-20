@@ -22,7 +22,6 @@ I'm a Python backend developer from St Petersburg.
 
 ### I’m currently learning:
 
-- SQL
 - FastAPI
 - SQLAlchemy
 - Data structures and Algorythms on [LeetCode](https://leetcode.com/)
