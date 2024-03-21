@@ -22,4 +22,4 @@ My tech stack:
 My contacts:
 
   - Email: i.a.vorontsova@mail.ru
-  - Telegram: @ivory_iv
+  - Telegram: [@ivory_iv](https://t.me/ivory_iv)
