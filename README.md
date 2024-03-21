@@ -1,6 +1,6 @@
-### Hi, I'm Irina! Glad to see you here 👋
+## Hi, I'm Irina! Glad to see you here 👋
 
-# Python backend developer
+#### Python backend developer
 
 ### My tech stack
 
