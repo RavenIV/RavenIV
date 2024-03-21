@@ -1,8 +1,8 @@
-### Glad to see you here! 👋
+### Hi, I'm Irina! Glad to see you here 👋
 
-I'm a Python backend developer from St Petersburg.
+# Python backend developer
 
-### Languages and Tools
+### My tech stack
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -19,15 +19,7 @@ I'm a Python backend developer from St Petersburg.
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-
-### I’m currently learning:
-
-- FastAPI
-- SQLAlchemy
-- Data structures and Algorythms on [LeetCode](https://leetcode.com/)
-    
-
-### How to reach me
+### My contacts
 
   - Email: i.a.vorontsova@mail.ru
   - Telegram: @ivory_iv
